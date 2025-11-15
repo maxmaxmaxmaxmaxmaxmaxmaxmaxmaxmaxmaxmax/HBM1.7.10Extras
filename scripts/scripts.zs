@@ -6,6 +6,8 @@ val stone = <ore:stone>;
 val flint = <ore:itemFlint>;
 val glass = <ore:blockGlass>;
 val obsidian = <ore:blockObsidian>;
+val log = <ore:logWood>;
+
 
 val tita_plate = <ore:plateTitanium>;
 val tita_cast_plate = <hbm:item.plate_cast:2200>;
@@ -68,4 +70,8 @@ recipes.addShaped(<AWWayofTime:blockWritingTable>,
  [[null, glassware, null],
   [obsidian, weak_orb, obsidian],
   [null, null, null]]);
-recipes.remove(dirt);
+recipes.remove(<cookingbook:cookingtable>);
+recipes.addShaped(<cookingbook:cookingtable>,
+ [[dense_stone, dense_stone, dense_stone],
+  [log, <cookingbook:recipebook>, log],
+  [log, log, log]]);
