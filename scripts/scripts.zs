@@ -24,11 +24,7 @@ recipes.addShaped(<hbm:tile.dirt_dead> * 8,
  [[dirt, dirt, dirt],
   [dirt, <AWWayofTime:tennebrae>, dirt],
   [dirt, dirt, dirt]]);
-recipes.remove(<minecraft:bucket>);
-recipes.addShaped(<minecraft:bucket>,
- [[null, null, null],
-  [<hbm:item.plate_iron>, null, <hbm:item.plate_iron>],
-  [null, <hbm:item.plate_iron>, null]]);
+
 recipes.remove(<hbm:item.envsuit_helmet>);
 recipes.addShaped(<hbm:item.envsuit_helmet>,
  [[tita_plate, microchip, tita_plate],
