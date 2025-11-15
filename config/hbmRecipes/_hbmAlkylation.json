@@ -13,12 +13,6 @@
       "output2": ["PEROXIDE",20]
     },
     {
-      "input": "XYLENE",
-      "acid": ["CCL",60],
-      "output1": ["REFORMGAS",100],
-      "output2": ["CHLOROMETHANE",50]
-    },
-    {
       "input": "CHLOROETHANE",
       "acid": ["UNSATURATEDS",60],
       "output1": ["CBENZ",70],
@@ -29,6 +23,12 @@
       "acid": ["NONE",0],
       "output1": ["UNSATURATEDS",75],
       "output2": ["CHLORINE",25]
+    },
+    {
+      "input": "XYLENE",
+      "acid": ["CCL",60],
+      "output1": ["REFORMGAS",100],
+      "output2": ["CHLOROMETHANE",50]
     },
     {
       "input": "AROMATICS",

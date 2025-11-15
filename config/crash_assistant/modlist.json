@@ -72,6 +72,11 @@
     "modId": "CodeChickenCore",
     "version": "1.4.8"
   },
+  "cookingbook-mc1.7.10-1.0.140.jar": {
+    "jarName": "cookingbook-mc1.7.10-1.0.140.jar",
+    "modId": "cookingbook",
+    "version": "1.0.140"
+  },
   "CraftTweaker-1.7.10-3.1.0-legacy.jar": {
     "jarName": "CraftTweaker-1.7.10-3.1.0-legacy.jar",
     "modId": "MineTweaker3",
