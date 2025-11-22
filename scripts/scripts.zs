@@ -71,3 +71,5 @@ recipes.addShaped(<cookingbook:cookingtable>,
  [[dense_stone, dense_stone, dense_stone],
   [log, <cookingbook:recipebook>, log],
   [log, log, log]]);
+
+recipes.addShapeless(<hbm:item.nuclear_waste_long_depleted_tiny>, [<etfuturum:dragon_breath>]);

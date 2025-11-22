@@ -1,5 +1,5 @@
-Total amount of free potion ids: 65531
-Total amount of occupied potion ids: 101
+Total amount of free potion ids: 65530
+Total amount of occupied potion ids: 102
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -29,7 +29,7 @@ All ids and their position:
 24 is Occupied by potion.paralysis (biomesoplenty.common.potions.PotionParalysis)
 25 is Occupied by potion.possession (biomesoplenty.common.potions.PotionPossession)
 26 is Avaible
-27 is Avaible
+27 is Occupied by potion.levitation (ganymedes01.etfuturum.potion.PotionLevitation)
 28 is Avaible
 29 is Avaible
 30 is Avaible

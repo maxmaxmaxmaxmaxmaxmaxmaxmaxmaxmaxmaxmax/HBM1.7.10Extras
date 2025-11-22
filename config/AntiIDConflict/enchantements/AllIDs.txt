@@ -198,9 +198,9 @@
 197 is Avaible
 198 is Avaible
 199 is Avaible
-200 is Avaible
-201 is Avaible
-202 is Avaible
+200 is Occupied by: enchantment.frost_walker (ganymedes01.etfuturum.enchantment.FrostWalker)
+201 is Occupied by: enchantment.mending (ganymedes01.etfuturum.enchantment.Mending)
+202 is Occupied by: enchantment.swift_sneak (ganymedes01.etfuturum.enchantment.SwiftSneak)
 203 is Avaible
 204 is Avaible
 205 is Avaible

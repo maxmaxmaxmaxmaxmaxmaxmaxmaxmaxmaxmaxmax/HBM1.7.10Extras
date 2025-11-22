@@ -70,6 +70,10 @@
       "output": ["hbm:item.dust"]
     },
     {
+      "input": ["etfuturum:sapling",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
       "input": ["hbm:tile.sellafield"],
       "output": ["hbm:item.scrap_nuclear"]
     },
@@ -186,6 +190,10 @@
       "output": ["hbm:item.powder_schrabidate",9]
     },
     {
+      "input": ["etfuturum:log_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["minecraft:quartz_block"],
       "output": ["hbm:item.powder_quartz",4]
     },
@@ -196,6 +204,10 @@
     {
       "input": ["hbm:item.ore_separated",1,2],
       "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["etfuturum:log_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_deepcleaned",1,2],
@@ -250,6 +262,10 @@
       "output": ["hbm:item.ore_enriched",1,15]
     },
     {
+      "input": ["etfuturum:log_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:item.ore_deepcleaned",1,3],
       "output": ["hbm:item.ore_enriched",1,3]
     },
@@ -296,6 +312,10 @@
     {
       "input": ["hbm:tile.minmus_smooth"],
       "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["etfuturum:log_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["minecraft:quartz_stairs"],
@@ -450,6 +470,10 @@
       "output": ["hbm:item.ore_enriched",1,4]
     },
     {
+      "input": ["etfuturum:bark"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:tile.moho_stone"],
       "output": ["minecraft:gravel"]
     },
@@ -510,6 +534,10 @@
       "output": ["hbm:item.ore_enriched",1,4]
     },
     {
+      "input": ["etfuturum:bark",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["Natura:Rare Tree",1,3],
       "output": ["hbm:item.powder_sawdust",4]
     },
@@ -564,6 +592,14 @@
     {
       "input": ["hbm:item.ore_centrifuged",1,1],
       "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:bark2",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:bark",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:tile.ore_glowstone",1,32767],
@@ -626,6 +662,10 @@
       "output": ["hbm:item.ore_enriched",1,10]
     },
     {
+      "input": ["etfuturum:cherry_log",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:item.ore_centrifuged",1,2],
       "output": ["hbm:item.ore_enriched",1,2]
     },
@@ -648,6 +688,14 @@
     {
       "input": ["Natura:planks",1,1],
       "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["etfuturum:bark2"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:bark",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["Natura:Rare Tree",1,1],
@@ -674,6 +722,10 @@
       "output": ["hbm:item.ore_enriched",1,8]
     },
     {
+      "input": ["etfuturum:wood2_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:tile.dirt_dead"],
       "output": ["hbm:item.scrap_oil"]
     },
@@ -688,6 +740,10 @@
     {
       "input": ["hbm:tile.deco_pipe_framed_green_rusted"],
       "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["etfuturum:cherry_log",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:tile.sellafield",1,5],
@@ -716,6 +772,10 @@
     {
       "input": ["hbm:item.ore_centrifuged",1,7],
       "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["etfuturum:bark2",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_cleaned",1,12],
@@ -758,8 +818,16 @@
       "output": ["hbm:item.powder_rubber",4]
     },
     {
+      "input": ["etfuturum:cherry_log",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:tile.brick_obsidian"],
       "output": ["hbm:tile.gravel_obsidian"]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_nitrocrystalline"],
@@ -788,6 +856,10 @@
     {
       "input": ["Natura:planks",1,3],
       "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["etfuturum:bark2",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_centrifuged",1,9],
@@ -820,6 +892,14 @@
     {
       "input": ["hbm:tile.sellafield",1,3],
       "output": ["hbm:item.scrap_nuclear",5]
+    },
+    {
+      "input": ["etfuturum:cherry_log"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:tile.deco_pipe_quad_red"],
@@ -890,12 +970,20 @@
       "output": ["hbm:item.powder_desh_mix"]
     },
     {
+      "input": ["etfuturum:wood2_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["Natura:tree"],
       "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["minecraft:carrot"],
       "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["etfuturum:cobbled_deepslate"],
+      "output": ["minecraft:gravel"]
     },
     {
       "input": ["hbm:item.ore_nitrocrystalline",1,2],
@@ -1058,6 +1146,10 @@
       "output": ["hbm:item.ore_enriched",1,16]
     },
     {
+      "input": ["etfuturum:log2_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
       "input": ["hbm:item.ore_deepcleaned",1,18],
       "output": ["hbm:item.ore_enriched",1,18]
     },
@@ -1083,6 +1175,10 @@
     },
     {
       "input": ["BiomesOPlenty:logs2",1,32767],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:log2_stripped",1,2],
       "output": ["hbm:item.powder_sawdust",4]
     },
     {
@@ -1122,12 +1218,20 @@
       "output": ["minecraft:gravel"]
     },
     {
+      "input": ["etfuturum:blackstone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
       "input": ["hbm:tile.deco_pipe_rim_red"],
       "output": ["hbm:item.powder_steel"]
     },
     {
       "input": ["hbm:item.ore_seared"],
       "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:tile.minmus_stone"],
@@ -1164,6 +1268,10 @@
     {
       "input": ["hbm:item.ore_nitrated",1,1],
       "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:log2_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["harvestthenether:netherSapling"],
@@ -1208,6 +1316,10 @@
     {
       "input": ["hbm:item.crystal_cobalt"],
       "output": ["hbm:item.powder_cobalt",3]
+    },
+    {
+      "input": ["etfuturum:wood_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_purified",1,2],
@@ -1268,6 +1380,10 @@
     {
       "input": ["hbm:item.ore_seared",1,2],
       "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.coil_copper_torus"],
@@ -1336,6 +1452,10 @@
     {
       "input": ["hbm:item.ore_seared",1,1],
       "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.crystal_rare"],
@@ -1906,6 +2026,10 @@
       "output": ["hbm:item.ore_enriched",1,6]
     },
     {
+      "input": ["etfuturum:wood_planks",1,3],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
       "input": ["hbm:tile.deco_pipe_rim_green"],
       "output": ["hbm:item.powder_steel"]
     },
@@ -1970,8 +2094,16 @@
       "output": ["hbm:item.powder_beryllium",3]
     },
     {
+      "input": ["etfuturum:wood_planks",1,4],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
       "input": ["hbm:item.ore_deepcleaned",1,7],
       "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["etfuturum:log2_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
     },
     {
       "input": ["hbm:item.ore_seared",1,11],
